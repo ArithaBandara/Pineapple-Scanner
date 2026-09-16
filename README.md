@@ -1,4 +1,4 @@
-# <img src="img/pineappple.png" width="32"> Pineapple-Scanner (C11)
+# <img src="img/pineappple.png" width="128"> Pineapple-Scanner (C11)
 
 A production-style, from-scratch TCP port scanner: a fixed-size POSIX
 thread pool pulls ports off a mutex/condvar-protected queue, probes each
