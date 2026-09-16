@@ -1,4 +1,4 @@
-# Multi-threaded TCP Port Scanner & Banner Grabber (C11)
+# <img src="https://github.com/ArithaBandara/Pineapple-Scanner/blob/main/img/pineappple.png" width="32"> Pineapple-Scanner (C11)
 
 A production-style, from-scratch TCP port scanner: a fixed-size POSIX
 thread pool pulls ports off a mutex/condvar-protected queue, probes each
