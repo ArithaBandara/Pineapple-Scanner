@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-threaded TCP Port Scanner & Banner Grabber (C11)
 
 A production-style, from-scratch TCP port scanner: a fixed-size POSIX
@@ -183,3 +184,7 @@ Valgrind-clean:
 make
 valgrind --leak-check=full ./portscan -H 127.0.0.1 -p 1-100
 ```
+=======
+# Pineapple-Scanner
+A security scanning tool that discovers services, correlates them with known vulnerabilities, maintains scan history, and detects changes between scans.
+>>>>>>> 1b2fa5fdcb9fe98b86478f07cf265f03ead78e98
